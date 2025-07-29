@@ -3,6 +3,6 @@
   
 Atualmente estou cursando Análise e desenvolvimento de sistemas📚
 
-🖥️Aqui você vai encontrar projetos e códigos desenvolvidos com o intuito de aprender e praticar
+Aqui você vai encontrar projetos e códigos desenvolvidos com o intuito de aprender e praticar🖥️
 
 Você pode me encontrar como " alissonnr_" no instagram </h2>
