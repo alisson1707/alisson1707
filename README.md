@@ -1,5 +1,5 @@
-<h1>Olá,sou o Alisson 🤓</h1>
-<h2>Bem-vindo ao meu perfil no Github👋
+<h1>Olá,sou o Alisson 👨‍💻</h1>
+<h2>Seja Bem-vindo(a) ao meu perfil do Github👋
   
 Atualmente estou cursando Análise e desenvolvimento de sistemas📚
 
